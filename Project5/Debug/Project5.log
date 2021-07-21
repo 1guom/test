@@ -1,0 +1,9 @@
+﻿  02 4种类型的函数.cpp
+  04 值传递.cpp
+  05 函数的分文件编写.cpp
+  03 函数的声明.cpp
+  01 函数的定义和调用.cpp
+  swap.cpp
+  正在生成代码...
+swap.obj : error LNK2005: "void __cdecl swap(int,int)" (?swap@@YAXHH@Z) 已经在 04 值传递.obj 中定义
+C:\Users\86198\source\repos\Project1\Debug\Project5.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
